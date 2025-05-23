@@ -35,17 +35,17 @@
 
 ### Frontend Magic
 <span>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,reactjs,nextjs,typescript,tailwind,bootstrap,materialui,antdesign" />
 </span>
 
 ### Backend Artistry
 <span>
-  <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,nodejs,express,fastapi,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mongodb,mysql" />
 </span>
 
 ### DevOps & Tools
 <span>
-  <img src="https://skillicons.dev/icons?i=git,ubuntu,docker,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions" />
 </span>
 
 ---
@@ -65,10 +65,8 @@
 
 ## 🌠 Currently Exploring
 
-- ### ☁️ Cloud Architecture (AWS/GCP)
 - ### 🤖 Machine Learning Fundamentals
 - ### ⚛️ Advanced React Patterns
-- ### 🔗 Web3 & Blockchain Concepts
 
 ---
 
@@ -121,6 +119,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
-Gianguyen1234/Gianguyen1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ngocthanhnt00/ngocthanhnt00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
