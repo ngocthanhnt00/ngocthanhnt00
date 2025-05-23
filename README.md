@@ -36,6 +36,8 @@
 ### Frontend Magic
 <span>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,bootstrap,materialui,ant-design" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/antdesign.svg" width="32" height="32" />
+
 </span>
 
 ### Backend Artistry
