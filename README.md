@@ -1,23 +1,126 @@
-<h1 align="center">Hi 👋, I'm Thanh</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<div align="center">
+  
+# 👋 Hello, I'm Thanh_Dev 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngocthanhnt00&label=Profile%20views&color=0e75b6&style=flat" alt="ngocthanhnt00" /> </p>
+### **Full-Stack Developer | Tech Blogger | Content Creator**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngocthanhnt00" alt="ngocthanhnt00" /></a> </p>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ngoc-thanh-nguyen-81a9082ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngoc-thanh-nguyen-81a9082ba" height="30" width="40" /></a>
-<a href="https://fb.com/nnt04.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nnt04.77" height="30" width="40" /></a>
-</p>
+## 🔮 My Coding Philosophy
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+>  *"I don't just write code – I craft digital experiences. Every bug is a puzzle waiting to be solved, every project a blank canvas for innovation."*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngocthanhnt00&show_icons=true&locale=en&layout=compact" alt="ngocthanhnt00" /></p>
+- ### Building scalable, elegant solutions
+- ### Continuous learning enthusiast
+- ### Sharing knowledge through content creation
+- ### Passionate about clean code architecture
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngocthanhnt00&show_icons=true&locale=en" alt="ngocthanhnt00" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngocthanhnt00&" alt="ngocthanhnt00" /></p>
+## 🌌 Connect With Me
+
+<div align="center">
+  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dev-maniac2349)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20553682)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thaonguyen-portfolio.vercel.app/)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Magic
+<span>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,bootstrap,materialui" />
+</span>
+
+### Backend Artistry
+<span>
+  <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,nodejs,express,fastapi,mongodb,mysql,postgres" />
+</span>
+
+### DevOps & Tools
+<span>
+  <img src="https://skillicons.dev/icons?i=git,ubuntu,docker,aws,githubactions" />
+</span>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gianguyen1234&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gianguyen1234&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gianguyen1234&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌠 Currently Exploring
+
+- ### ☁️ Cloud Architecture (AWS/GCP)
+- ### 🤖 Machine Learning Fundamentals
+- ### ⚛️ Advanced React Patterns
+- ### 🔗 Web3 & Blockchain Concepts
+
+---
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF7D7D&center=true&vCenter=true&width=500&lines=Code+is+my+canvas;Turning+ideas+into+reality;Debugging+by+day%2C+Creating+by+night)
+  
+</div>
+
+## ✨ Fun Fact
+
+### When I'm not coding, you'll find me creating tech tutorials or exploring the latest developer tools!
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D00&center=true&vCenter=true&width=435&lines=Relax%2C+sit+back+and+enjoy+coding!" alt="Typing SVG" />
+</div>
+
+---
+
+# 💻 Tech Stack & 📝 Latest Blog Post
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+        <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+      </picture>
+    </td>
+    <td valign="top" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+    </td>
+         
+<!-- BLOG-POST-LIST:START -->
+<ul><li>🔗 [Building a Personalized Telegram Chatbot with Python and Gemini 2.0 Flash](https://harrypage.hashnode.dev/building-a-personalized-telegram-chatbot-with-python-and-gemini-20-flash)</li> <li>🔗 [MVVM with Jetpack Compose:  CRUD App](https://harrypage.hashnode.dev/mvvm-with-jetpack-compose-crud-app)</li> <li>🔗 [Câu lệnh cài và chạy website trên WSL](https://harrypage.hashnode.dev/cau-lenh-cai-va-chay-website-tren-wsl)</li> <li>🔗 [install and use Google Chrome on Ubuntu running inside WSL](https://harrypage.hashnode.dev/install-and-use-google-chrome-on-ubuntu-running-inside-wsl)</li> <li>🔗 [Set up mkcert HTTPS on your PHP web server running on WSL (Windows Subsystem for Linux)](https://harrypage.hashnode.dev/set-up-mkcert-https-on-your-php-web-server-running-on-wsl-windows-subsystem-for-linux)</li> </ul>
+<!-- BLOG-POST-LIST:END -->
+
+  </tr>
+</table>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gianguyen1234&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Gianguyen1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!---
+Gianguyen1234/Gianguyen1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
