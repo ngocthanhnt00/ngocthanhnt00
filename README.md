@@ -18,17 +18,6 @@
 - ### Passionate about clean code architecture
 
 ---
-
-## 🌌 Connect With Me
-
-<div align="center">
-  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dev-maniac2349)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20553682)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thaonguyen-portfolio.vercel.app/)
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -117,7 +106,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gianguyen1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
