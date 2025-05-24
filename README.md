@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Thanh_Dev 
 
-### **Full-Stack Developer | Tech Blogger | Content Creator**
+### **Full-Stack Developer | Video Editor **
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
