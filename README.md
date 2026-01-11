@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Thanh_Dev 
 
-### **Front-end Developer | Video Editor **
+### **Back-end Developer | Video Editor | Front-end**
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
